@@ -189,9 +189,6 @@ Epoch [5/5], Loss: 0.7867, Accuracy: 0.7854
 - **Hyperparameter Tuning**: Further tune hyperparameters such as learning rate, batch size, and the number of layers in the Transformer.
 - **Real-time Inference**: Optimize the model for faster inference on large image datasets.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 ```
 
 This `README.md` provides a complete guide to your image classification project with Transformer models. It includes sections on the dataset, model architecture, training process, evaluation, usage, results, and future improvements.
