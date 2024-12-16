@@ -1,5 +1,4 @@
 
-```markdown
 # Image Classification with Transformer Models
 
 This repository demonstrates how to use a Transformer model to perform image classification by leveraging patch-based image representation. The dataset is split into multiple categories, and the model classifies images into one of the defined classes using a patch-based approach.
