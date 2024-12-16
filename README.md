@@ -1,4 +1,3 @@
-Certainly! Below is the full README in Markdown (`.md`) format for your project.
 
 ```markdown
 # Image Classification with Transformer Models
